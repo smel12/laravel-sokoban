@@ -1,65 +1,12 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[CMS Max](https://www.cmsmax.com/)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<p align="center"><a href="https://laravel-sokoban.my-just.ru" target="_blank"><img src="https://laravel-sokoban.my-just.ru/laravel-sokoban-logo-min.jpg" width="400"></a></p>
+<p>Здравствуйте!</p>
+<p>Вы находитесь на страничке с исходным кодом моего пет-проекта <a href="https://laravel-sokoban.my-just.ru" target="_blank">&laquo;Laravel Sokoban&raquo;</a>.
+Это своего рода демонстрация применения стэка технологий PHP/Laravel/HTML/Tailwind CSS.
+Игровой процесс сразу же можно попробовать на <a href="https://laravel-sokoban.my-just.ru" target="_blank">https://laravel-sokoban.my-just.ru</a>.</p>
+<p>Это римейк известной игры <a href="https://ru.wikipedia.org/wiki/Sokoban" target="_blank">&laquo;Sokoban&raquo;</a>, которая была создана в 1981 году Хироюки Имабаяси. Игра была реализована для множества компьютерных платформ, включая практически все домашние и персональные компьютеры. Также существуют версии игры для карманных компьютеров, игровых приставок, цифровых фотоаппаратов, мобильных телефонов и телевизоров.</p>
+<p>Пришёл и мой черёд сделать веб-версию этой игры.</p>
+<p>Существует ещё множество её вариантов, но мне было интересным задействовать только опрделённую связку веб-технологий для создания игры. Для реализации мной был выбран фрэймворк <a href="https://laravel.su/docs/8.x/documentation" target="_blank">&laquo;Laravel 8&raquo;</a>. Проект написан на чистом PHP без технологий реактивности (без &laquo;JavaScript&raquo; и библиотек на нём). Для отображения игровых объектов и оформления использован <a href="https://v2.tailwindcss.ru/docs" target="_blank">&laquo;Tailwind CSS 2&raquo;</a> и шрифт <a href="http://www.entypo.com/" target="_blank">&laquo;Entypo&raquo;</a>.</p>
+<p>Код написан больше в процедурном стиле, не используя свойства объектов для внутренней логики. Хотя сам фрэймворк <a href="https://laravel.su/docs/8.x/documentation" target="_blank">&laquo;Laravel&raquo;</a> в большей степени ООП парадигма.</p>
+<p>При разработке архитектуры приложения и реализации игровой логики применён паттерн ООП &laquo;Посредник&raquo;. Так сказать обкатывал для себя новые технологии веб-разработки и оценивал свои собственные силы.</p>
+<p>Комментарии в выкладываемом коде мной убраны специально. Кому будет интересно посмотреть или обсудить реализацию &ndash; обращайтесь, буду рад.</p>
+<p align="center"><a href="https://laravel-sokoban.my-just.ru" target="_blank"><img src="https://laravel-sokoban.my-just.ru/sokoban-level-40-min.jpg"></a></p>
