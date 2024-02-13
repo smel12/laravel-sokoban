@@ -9,4 +9,4 @@
 <p>Код написан больше в процедурном стиле, не используя свойства объектов для внутренней логики. Хотя сам фрэймворк <a href="https://laravel.su/docs/8.x/documentation" target="_blank">&laquo;Laravel&raquo;</a> в целом ООП парадигма.</p>
 <p>При разработке архитектуры приложения и реализации игровой логики применён паттерн ООП &laquo;Посредник&raquo;. Так сказать обкатывал для себя новые технологии веб-разработки и оценивал свои собственные силы.</p>
 <p>Комментарии в выкладываемом коде мной убраны специально. Кому будет интересно посмотреть или обсудить реализацию &ndash; обращайтесь, буду рад.</p>
-<p align="center"><a href="https://laravel-sokoban.my-just.ru" target="_blank"><img src="[https://github.com/smel12/laravel-sokoban/blob/main/-%20Screenshots/Sokoban-Screenshot-04.jpg]"></a></p>
+<p align="center"><a href="https://laravel-sokoban.my-just.ru" target="_blank"><img src="https://github.com/smel12/laravel-sokoban/blob/main/-%20Screenshots/Sokoban-Screenshot-04.jpg"></a></p>
